@@ -17,8 +17,28 @@ Files
 Usage
 
     make all
-        Compiles all functions for the assignment into an object file
+        Compiles all functions for the library into an object file
+        
     make list.o
         Compiles all the functions in list.c into an object file
+        
+    make test1.o
+        Creates object file test1.o
+        
+    make test2.o
+        Creates object file test2.o
+        
+    make test3.o
+        Creates object file test3.o
+        
+    make test1
+        Creates executable test1
+        
+    make test2
+        Creates executable test2
+        
+    make test3
+        Creates executable test3
+        
     make clean
         Removes the object files containing the functions
