@@ -59,7 +59,7 @@ Files
 Usage (make)
 
     all
-        Compiles all functions for the library into an object file
+        Compiles all the functions for the library and creates test executables
         
     list.o
         Compiles all the functions in list.c into an object file
